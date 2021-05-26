@@ -9,4 +9,4 @@ Random Walker made with the help of csfml library
 
 ## Steps to compile:
 1) ```gcc -c random_walker.c```
-2) ```gcc main.o -o csfml-app -lcsfml-graphics -lcsfml-window -lcsfml-system```
+2) ```gcc random_walker.o -o csfml-app -lcsfml-graphics -lcsfml-window -lcsfml-system```
